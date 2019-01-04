@@ -1,0 +1,13 @@
+.center {
+    width: 70%;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+button {
+    cursor: pointer;
+}
